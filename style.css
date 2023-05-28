@@ -1,0 +1,9 @@
+p {
+    color: rgb(42, 165, 104);
+}
+
+h1,
+h3 {
+    background-color: rgba(240, 255, 255, 0.897);
+}
+h1+h3 {color: rgb(46, 165, 42);}
